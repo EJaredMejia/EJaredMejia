@@ -23,7 +23,7 @@
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -53,11 +53,8 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EJaredMejia&show_icons=true&theme=transparent&hide_border=true&title_color=0e76a8" alt="GitHub Stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EJaredMejia&theme=transparent&hide_border=true&title_color=0e76a8" alt="GitHub Streak" />
 </p>
